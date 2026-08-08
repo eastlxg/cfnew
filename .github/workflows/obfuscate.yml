@@ -1,3 +1,4 @@
+```yaml
 name: Generate and Obfuscate Worker Script
 
 on:
@@ -7,6 +8,10 @@ on:
       - '**'  # 仅匹配分支推送，排除标签推送
     paths:
       - '明文源吗'
+
+# 强制 GitHub Actions 使用 Node.js 24
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build-and-obfuscate:
@@ -19,7 +24,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '24'
 
       - name: Install Obfuscator
         run: npm install javascript-obfuscator
@@ -30,7 +35,7 @@ jobs:
           const JavaScriptObfuscator = require('javascript-obfuscator');
           const fs = require('fs');
           const path = require('path');
-          
+
           const sourceFileName = '明文源吗';
           const outputFileName = '少年你相信光吗';
           const sourceFilePath = path.join(process.cwd(), sourceFileName);
@@ -82,10 +87,11 @@ jobs:
           };
 
           const obfuscatedCode = JavaScriptObfuscator.obfuscate(originalCode, obfuscationOptions).getObfuscatedCode();
-          
+
           fs.writeFileSync(path.join(process.cwd(), outputFileName), obfuscatedCode, 'utf8');
           console.log('成功将 \'' + sourceFileName + '\' 混淆并保存至 \'' + outputFileName + '\'。');
           EOF
+
           node obfuscate.js
 
       - name: Commit and push the obfuscated file
@@ -99,3 +105,4 @@ jobs:
             git commit -m "部署用这个"
             git push
           fi
+```
