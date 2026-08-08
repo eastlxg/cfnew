@@ -1,6 +1,6 @@
 import { connect } from 'cloudflare:sockets';
 
-let DEFAULT_UUID = 'fe0ed675-bc05-474d-99e5-28ba9edf845a';
+let DEFAULT_UUID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 
 function hexToBytes(hex) {
     const bytes = new Uint8Array(16);
@@ -18,12 +18,7 @@ export default {
             return new Response("Not Found", { status: 404 });
         }
 
-        /*
-         * UUID：
-         * 优先从 KV CONFIG 的 uuid 读取
-         * 如果 KV 中没有 uuid，则使用 DEFAULT_UUID
-         */
-        const uuidStr = await env.CONFIG.get("uuid") || DEFAULT_UUID;
+        const uuidStr = env.UUID || DEFAULT_UUID;
         const EXPECTED_UUID = hexToBytes(uuidStr.replace(/-/g, ''));
 
         try {
