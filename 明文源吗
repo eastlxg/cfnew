@@ -1,6 +1,6 @@
 import { connect } from 'cloudflare:sockets';
 
-let DEFAULT_UUID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
+let DEFAULT_UUID = 'fe0ed675-bc05-474d-99e5-28ba9edf845a';
 
 function hexToBytes(hex) {
     const bytes = new Uint8Array(16);
