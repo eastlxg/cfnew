@@ -1,1 +1,248 @@
+(function(a,G){var m=l;var Z=l;var A=a();while(!![]){try{var I=parseInt(m(0x17e))/0x1*(-parseInt(m(0x17d))/0x2)+-parseInt(Z(0x178))/0x3+parseInt(Z(0x176))/0x4*(-parseInt(Z(0x179))/0x5)+parseInt(m(0x17b))/0x6*(parseInt(Z(0x181))/0x7)+parseInt(Z(0x17f))/0x8+-parseInt(m(0x17a))/0x9*(-parseInt(Z(0x180))/0xa)+parseInt(m(0x17c))/0xb*(parseInt(m(0x177))/0xc);if(I===G){break;}else{A['push'](A['shift']());}}catch(J){A['push'](A['shift']());}}}(p,0x3646f));var k=(function(){var a=!![];return function(G,A){var I=a?function(){if(A){var J=A['\x61'+'\x70'+'\x70'+'\x6c'+'\x79'](G,arguments);A=null;return J;}}:function(){};a=![];return I;};}());function l(H,C){H=H-0x176;var k=p();var U=k[H];if(l['\x4c\x50\x67\x4b\x43\x73']===undefined){var a=function(J){var f='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';var d='';var T='';for(var P=0x0,m,Z,x=0x0;Z=J['\x63\x68\x61\x72\x41\x74'](x++);~Z&&(m=P%0x4?m*0x40+Z:Z,P++%0x4)?d+=String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](0xff&m>>(-0x2*P&0x6)):0x0){Z=f['\x69\x6e\x64\x65\x78\x4f\x66'](Z);}for(var N=0x0,j=d['\x6c\x65\x6e\x67\x74\x68'];N<j;N++){T+='\x25'+('\x30\x30'+d['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](N)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](0x10))['\x73\x6c\x69\x63\x65'](-0x2);}return decodeURIComponent(T);};l['\x78\x73\x41\x47\x66\x61']=a;l['\x51\x48\x69\x66\x67\x64']={};l['\x4c\x50\x67\x4b\x43\x73']=!![];}var G=k[0x0];var A=H+G;var I=l['\x51\x48\x69\x66\x67\x64'][A];if(!I){U=l['\x78\x73\x41\x47\x66\x61'](U);l['\x51\x48\x69\x66\x67\x64'][A]=U;}else{U=I;}return U;}var U=k(this,function(){var a;try{var G=Function('\x72'+'\x65'+'\x74'+'\x75'+'\x72'+'\x6e'+'\x20'+'\x28'+'\x66'+'\x75'+'\x6e'+'\x63'+'\x74'+'\x69'+'\x6f'+'\x6e'+'\x28'+'\x29'+'\x20'+('\x7b'+'\x7d'+'\x2e'+'\x63'+'\x6f'+'\x6e'+'\x73'+'\x74'+'\x72'+'\x75'+'\x63'+'\x74'+'\x6f'+'\x72'+'\x28'+'\x22'+'\x72'+'\x65'+'\x74'+'\x75'+'\x72'+'\x6e'+'\x20'+'\x74'+'\x68'+'\x69'+'\x73'+'\x22'+'\x29'+'\x28'+'\x20'+'\x29')+('\x29'+'\x3b'));a=G();}catch(P){a=window;}var A=a['\x63'+'\x6f'+'\x6e'+'\x73'+'\x6f'+'\x6c'+'\x65']=a['\x63'+'\x6f'+'\x6e'+'\x73'+'\x6f'+'\x6c'+'\x65']||{};var I=['\x6c'+'\x6f'+'\x67','\x77'+'\x61'+'\x72'+'\x6e','\x69'+'\x6e'+'\x66'+'\x6f','\x65'+'\x72'+'\x72'+'\x6f'+'\x72','\x65'+'\x78'+'\x63'+'\x65'+'\x70'+'\x74'+'\x69'+'\x6f'+'\x6e','\x74'+'\x61'+'\x62'+'\x6c'+'\x65','\x74'+'\x72'+'\x61'+'\x63'+'\x65'];for(var J=0x0;J<I['\x6c'+'\x65'+'\x6e'+'\x67'+'\x74'+'\x68'];J++){var f=k['\x63'+'\x6f'+'\x6e'+'\x73'+'\x74'+'\x72'+'\x75'+'\x63'+'\x74'+'\x6f'+'\x72']['\x70'+'\x72'+'\x6f'+'\x74'+'\x6f'+'\x74'+'\x79'+'\x70'+'\x65']['\x62'+'\x69'+'\x6e'+'\x64'](k);var d=I[J];var T=A[d]||f;f['\x5f'+'\x5f'+'\x70'+'\x72'+'\x6f'+'\x74'+'\x6f'+'\x5f'+'\x5f']=k['\x62'+'\x69'+'\x6e'+'\x64'](k);f['\x74'+'\x6f'+'\x53'+'\x74'+'\x72'+'\x69'+'\x6e'+'\x67']=T['\x74'+'\x6f'+'\x53'+'\x74'+'\x72'+'\x69'+'\x6e'+'\x67']['\x62'+'\x69'+'\x6e'+'\x64'](T);A[d]=f;}});function p(){var x=['\x6d\x74\x43\x34\x6f\x74\x6d\x34\x42\x68\x76\x59\x72\x31\x62\x4b','\x6f\x64\x79\x33\x6d\x4a\x65\x57\x43\x31\x48\x4e\x41\x4c\x7a\x48','\x6f\x64\x66\x64\x79\x32\x31\x68\x42\x4c\x79','\x6d\x74\x61\x58\x6e\x67\x7a\x73\x75\x75\x48\x79\x45\x61','\x6e\x64\x72\x4d\x73\x68\x6e\x4d\x77\x77\x34','\x6d\x4b\x4c\x4a\x72\x66\x62\x4e\x76\x47','\x6d\x74\x79\x35\x6d\x5a\x4b\x30\x7a\x75\x58\x4e\x41\x76\x72\x6d','\x6d\x4a\x61\x30\x6d\x5a\x75\x59\x6d\x66\x7a\x4f\x76\x68\x50\x55\x79\x47','\x6d\x5a\x6d\x34\x6d\x64\x47\x57\x79\x4d\x6a\x31\x79\x4c\x6e\x6f','\x6d\x4a\x6d\x31\x6f\x76\x50\x58\x72\x75\x31\x5a\x75\x61','\x6e\x68\x50\x33\x7a\x4c\x7a\x33\x72\x61','\x6d\x4a\x71\x30\x6d\x64\x48\x6d\x71\x76\x66\x7a\x75\x4d\x57'];p=function(){return x;};return p();}U();```js
+import { connect } from 'cloudflare:sockets';
 
+let DEFAULT_UUID = 'fe0ed675-bc05-474d-99e5-28ba9edf845a';
+
+function hexToBytes(hex) {
+    const bytes = new Uint8Array(16);
+    for (let i = 0; i < 16; i++) {
+        bytes[i] = parseInt(hex.substring(i * 2, i * 2 + 2), 16);
+    }
+    return bytes;
+}
+
+export default {
+    async fetch(request, env, ctx) {
+        const contentType = request.headers.get("Content-Type") || "";
+        
+        if (request.method !== "POST" || !contentType.startsWith("application/grpc")) {
+            return new Response("Not Found", { status: 404 });
+        }
+
+        /*
+         * UUID：
+         * 优先从 KV CONFIG 的 uuid 读取
+         * 如果 KV 中没有 uuid，则使用 DEFAULT_UUID
+         */
+        const uuidStr = await env.CONFIG.get("uuid") || DEFAULT_UUID;
+        const EXPECTED_UUID = hexToBytes(uuidStr.replace(/-/g, ''));
+
+        try {
+            return await processGrpcStream(request, EXPECTED_UUID);
+        } catch (err) {
+            return new Response("Internal Error", { status: 500 });
+        }
+    }
+};
+
+async function processGrpcStream(request, EXPECTED_UUID) {
+    let proxyIP = null;
+    let proxyPort = 443;
+    
+    const url = new URL(request.url);
+    
+    let proxyIpParam = url.searchParams.get('proxyip') || url.searchParams.get('ip');
+
+    if (!proxyIpParam) {
+        const pathStr = url.pathname;
+        const pIdx = pathStr.indexOf('proxyip=');
+        if (pIdx !== -1) {
+            proxyIpParam = pathStr.substring(pIdx + 8);
+        } else {
+            const iIdx = pathStr.indexOf('ip=');
+            if (iIdx !== -1) {
+                proxyIpParam = pathStr.substring(iIdx + 3);
+            }
+        }
+    }
+    
+    if (proxyIpParam) {
+        try { proxyIpParam = decodeURIComponent(proxyIpParam); } catch (e) {}
+        const slashIndex = proxyIpParam.indexOf('/');
+        if (slashIndex !== -1) proxyIpParam = proxyIpParam.substring(0, slashIndex);
+        const andIndex = proxyIpParam.indexOf('&');
+        if (andIndex !== -1) proxyIpParam = proxyIpParam.substring(0, andIndex);
+
+        if (proxyIpParam.startsWith('[')) {
+            const endBracket = proxyIpParam.indexOf(']');
+            if (endBracket !== -1) {
+                proxyIP = proxyIpParam.substring(1, endBracket);
+                const portPart = proxyIpParam.substring(endBracket + 1);
+                if (portPart.startsWith(':')) proxyPort = parseInt(portPart.substring(1), 10);
+            }
+        } else {
+            const parts = proxyIpParam.split(':');
+            if (parts.length === 2) {
+                proxyIP = parts[0];
+                proxyPort = parseInt(parts[1], 10);
+            } else {
+                proxyIP = proxyIpParam;
+            }
+        }
+    }
+
+    const unwrappedStream = request.body.pipeThrough(createGrpcUnwrapper());
+    const reader = unwrappedStream.getReader();
+    
+    let buffer = new Uint8Array(0);
+    let parsed = null;
+    
+    while (true) {
+        const { value, done } = await reader.read();
+        if (done && buffer.byteLength === 0) return new Response("Bad Request", { status: 400 });
+        if (value) {
+            let temp = new Uint8Array(buffer.byteLength + value.byteLength);
+            temp.set(buffer);
+            temp.set(value, buffer.byteLength);
+            buffer = temp;
+        }
+        
+        if (buffer.byteLength >= 24) {
+            if (buffer[0] !== 0) return new Response("Bad Version", { status: 400 });
+
+            let uuidMatch = true;
+            for (let i = 0; i < 16; i++) {
+                if (buffer[i + 1] !== EXPECTED_UUID[i]) {
+                    uuidMatch = false;
+                    break;
+                }
+            }
+            if (!uuidMatch) return new Response("Not Found", { status: 404 });
+
+            const addonLen = buffer[17];
+            let offset = 18 + addonLen;
+            if (offset < buffer.byteLength) {
+                const command = buffer[offset++];
+                if (offset + 1 < buffer.byteLength) {
+                    const port = (buffer[offset] << 8) | buffer[offset + 1];
+                    offset += 2;
+                    if (offset < buffer.byteLength) {
+                        const addrType = buffer[offset++];
+                        let address = "";
+                        let valid = false;
+                        
+                        if (addrType === 1 && offset + 3 < buffer.byteLength) { 
+                            address = buffer.subarray(offset, offset + 4).join('.');
+                            offset += 4;
+                            valid = true;
+                        } else if (addrType === 2 && offset < buffer.byteLength) { 
+                            const len = buffer[offset++];
+                            if (offset + len <= buffer.byteLength) {
+                                address = new TextDecoder().decode(buffer.subarray(offset, offset + len));
+                                offset += len;
+                                valid = true;
+                            }
+                        } else if (addrType === 3 && offset + 15 < buffer.byteLength) { 
+                            const parts = [];
+                            for (let i = 0; i < 8; i++) {
+                                parts.push((buffer[offset + i * 2] << 8 | buffer[offset + i * 2 + 1]).toString(16));
+                            }
+                            address = parts.join(':');
+                            offset += 16;
+                            valid = true;
+                        }
+                        
+                        if (valid) {
+                            const rawData = buffer.subarray(offset);
+                            parsed = { command, port, address, rawData };
+                            break;
+                        }
+                    }
+                }
+            }
+        }
+        if (done) break;
+    }
+    
+    if (!parsed) return new Response("Bad Request", { status: 400 });
+    const { command, port, address, rawData } = parsed;
+    if (command === 2) return new Response("UDP Not Supported", { status: 403 });
+    
+    let socket;
+    try {
+        socket = connect({ hostname: address, port: port });
+        await socket.opened; 
+    } catch (err) {
+        if (proxyIP) {
+            try {
+                socket = connect({ hostname: proxyIP, port: proxyPort });
+                await socket.opened;
+            } catch (fErr) { return new Response("Proxy IP Failed", { status: 502 }); }
+        } else { return new Response("Connect Failed", { status: 502 }); }
+    }
+    
+    try {
+        const writer = socket.writable.getWriter();
+        if (rawData.byteLength > 0) await writer.write(rawData);
+        writer.releaseLock();
+        
+        const restOfRequest = new ReadableStream({
+            async pull(controller) {
+                try {
+                    const { value, done } = await reader.read();
+                    if (done) controller.close(); else controller.enqueue(value);
+                } catch (e) { controller.error(e); }
+            },
+            cancel() { reader.cancel(); }
+        });
+        restOfRequest.pipeTo(socket.writable).catch(() => {});
+        
+        const responseStream = socket.readable.pipeThrough(createGrpcWrapper());
+        return new Response(responseStream, {
+            status: 200,
+            headers: { "Content-Type": "application/grpc" }
+        });
+    } catch (e) { return new Response("Stream Error", { status: 502 }); }
+}
+
+function createGrpcUnwrapper() {
+    let leftover = null;
+    return new TransformStream({
+        transform(chunk, controller) {
+            let buffer = leftover ? (() => {
+                let t = new Uint8Array(leftover.byteLength + chunk.byteLength);
+                t.set(leftover); t.set(chunk, leftover.byteLength);
+                return t;
+            })() : chunk;
+            let offset = 0;
+            while (offset + 5 <= buffer.byteLength) {
+                let length = ((buffer[offset + 1] << 24) | (buffer[offset + 2] << 16) | (buffer[offset + 3] << 8) | buffer[offset + 4]) >>> 0;
+                if (offset + 5 + length <= buffer.byteLength) {
+                    let frame = buffer.subarray(offset + 5, offset + 5 + length);
+                    if (frame.byteLength > 0 && frame[0] === 0x0A) {
+                        let p = 1;
+                        while (p < frame.byteLength && (frame[p] & 0x80) !== 0) p++;
+                        p++;
+                        if (p < frame.byteLength) controller.enqueue(frame.subarray(p));
+                    }
+                    offset += 5 + length;
+                } else break;
+            }
+            leftover = offset < buffer.byteLength ? buffer.subarray(offset) : null;
+        }
+    });
+}
+
+function createGrpcWrapper() {
+    return new TransformStream({
+        start(controller) { controller.enqueue(createGrpcFrame(new Uint8Array([0, 0]))); },
+        transform(chunk, controller) { controller.enqueue(createGrpcFrame(chunk)); }
+    });
+}
+
+function createGrpcFrame(rawData) {
+    let L = rawData.byteLength;
+    let varintLen = 1, n = L;
+    while (n >= 0x80) { varintLen++; n >>>= 7; }
+    let M = 1 + varintLen + L; 
+    let frame = new Uint8Array(5 + M); 
+    frame[0] = 0; 
+    frame[1] = (M >>> 24) & 0xff; frame[2] = (M >>> 16) & 0xff; frame[3] = (M >>> 8) & 0xff; frame[4] = M & 0xff;
+    frame[5] = 0x0A;
+    let offset = 6; n = L;
+    while (n >= 0x80) { frame[offset++] = (n & 0x7f) | 0x80; n >>>= 7; }
+    frame[offset++] = n;
+    frame.set(rawData, offset);
+    return frame;
+}
+```;
